@@ -1,0 +1,6 @@
+*.settings*
+*test-output*
+*target*
+*.classpath*
+*.project*
+*excel_file*
